@@ -12,7 +12,7 @@ OpenCV – Image processing
 NumPy, Pandas – Data handling
 Matplotlib, Seaborn – Data visualization
 Streamlit – Web application for deployment
-
+ 
 🔍 Dataset Details
 The dataset consists of labeled images of different types of skin lesions. 
 The images undergo preprocessing techniques such as resizing, normalization, and 
