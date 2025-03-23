@@ -40,7 +40,7 @@ def predict_skin_cancer(image_path, model):
 
 
 # Streamlit App
-st.title("SmartSkin: CNN-Enhanced Early Detection of Malignant Skin Lesions")
+st.title("AN EFFECTIVE APPROACH TO DETECT SKIN CANCER USING CNN")
 
 st.markdown("""
     This application aids in identifying skin cancer by analyzing uploaded images. Using a deep learning model, it predicts whether a given skin lesion is Malignant or Benign.
